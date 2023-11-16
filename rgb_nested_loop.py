@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Created by: Finn Kitor
 # Created on: November 16th, 2023
-#
+# this program generates the different values of rgb using nested loops
 
 
 def main() -> None:
